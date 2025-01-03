@@ -1,1 +1,3 @@
-# prueba del primer repositorio en local y remoto con git y github 
+# -----------------------------------------------------------------
+# Prueba del primer repositorio en local y remoto con git y github 
+# ----------------------------------------------------------------
