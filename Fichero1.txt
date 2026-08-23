@@ -1,3 +1,4 @@
 Este es el primer fichero de la carpeta pruebagit.
 Se ha realizado una modificación al fichero.
 Modificación del fichero a través de github.
+Modificación del fichero a través de git bash
