@@ -1,0 +1,2 @@
+Nuevo fichero en repositorio local 
+Con el nombre Fichero3.txt
